@@ -1,2 +1,3 @@
 # ImanoDatanautApp
-Repo for first Datanaut Work
+Repository for Imano's first Datanaut Work
+
